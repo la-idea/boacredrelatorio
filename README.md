@@ -1,2 +1,6 @@
-# boacredrelatorio
-Relatório de análise de dados realizada em mailings trabalhados no callcenter.
+# Relatório Boa Cred
+Um pequeno relatório de análise de dados para empresa Boa Cred. Foram analisados dados de mailings de telemarketing processados por uma URA ativa que realiza ligações, reproduz uma mensagem com o nome do lead para confirmar a identidade através de uma interação com teclado do telefone e, em seguida, oferece um produto. Desta forma a URA classifica os leads de a cordo com as interações. 
+
+Esse é meu primeiro relatório de análise de dados e meu primeiro programa em R. Já enxerguei várias redundâncias (até mesmo enquanto estava programando) e algumas funções desnecessárias, erros de principiante. Acredito que os próximos estarão melhores. 
+
+Tem gráficos interativos em formato html. 

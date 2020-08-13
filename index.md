@@ -5,41 +5,18 @@ Um pequeno relatório de análise de dados para empresa Boa Cred. Foram analisad
 Esse é meu primeiro relatório de análise de dados em R. Já enxerguei várias redundâncias (até mesmo enquanto estava programando) e algumas funções desnecessárias, erros de principiante. Em breve, colocarei o link para a versão PowerBI. Os arquivos CSV com as listas que forneceram dados para o meu programa não estão neste repositório pois contém dados particulares dos leads.
 
 
-Boa Cred
-## Welcome to GitHub Pages
+## Formato PDF
 
-You can use the [editor on GitHub](https://github.com/la-idea/boacredrelatorio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O relatório em formato [PDF encontra-se nesse link.](https://github.com/la-idea/boacredrelatorio/blob/master/Relat%C3%B3rio%20Boa%20Cred%20Mega.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nesse caso de um relatório estático (formato PDF) foram colocados links para visualização de alguns gráficos dinâmicos.
 
-### Markdown
+## Gráficos Interativos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os gráficos iterativos foram produzidos no RStudio e estão no formato HTML você também pode acompanhar clicando nos links abaixo:
 
-```markdown
-Syntax highlighted code block
+## [Gráfico Chamadas Atendidas por Idade](https://la-idea.github.io/Int_idade.html)
 
-# Header 1
-## Header 2
-### Header 3
+## [Gráfico Chamadas Atendidas por Dia da Semana](https://la-idea.github.io/Int_dsemana.html)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/la-idea/boacredrelatorio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
